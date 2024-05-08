@@ -1,5 +1,0 @@
-Program ID: 1
-Command: pwd
-Status: Completed
-Time: 1ms
-
